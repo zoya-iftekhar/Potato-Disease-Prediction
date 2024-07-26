@@ -4,6 +4,9 @@
 
 The Potato Disease Classification project aims to automate the detection and classification of diseases affecting potato crops. Using advanced deep learning techniques, this project leverages Convolutional Neural Networks (CNNs) built with TensorFlow to analyze images of potato plants and identify various diseases. The solution is designed to assist farmers and agricultural professionals in timely disease detection and management, ultimately improving crop yield and quality.
 
+## Kaggle Dataset 
+https://www.kaggle.com/arjuntejaswi/plant-village
+
 ## Key Components
 
 ### 1. Deep Learning Model
